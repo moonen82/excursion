@@ -33,3 +33,7 @@ footer p {
     color: gray;
     text-align: right;
 }
+
+#video {
+    padding-top: 20px;
+}
